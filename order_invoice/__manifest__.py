@@ -9,10 +9,7 @@
     """,
     'author': 'John C',
     'category': 'Sales/Purchases ',
-    'images': [
-        #  'images/main_1.png',
-        # 'images/main_screenshot.png'
-    ],
+    'images': [ ],
     'depends': ['sale_management', 'purchase', 'stock'],
     'data': [],
     'installable': True,
